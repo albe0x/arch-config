@@ -1,0 +1,12 @@
+#
+# ~/.config/ghostty/config
+#
+
+#theme = Dark+
+theme = Dracula+
+
+window-width = 100
+window-height = 32
+
+background-opacity = 0.85
+background-blur = true
